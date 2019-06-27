@@ -7,3 +7,7 @@ using
 *redux
 *Axios
 
+the app consists of 4 Screens
+
+first screen (Splash screen )
+/Users/mac/Desktop/Screen Shot 2019-06-27 at 8.12.01 PM.png
