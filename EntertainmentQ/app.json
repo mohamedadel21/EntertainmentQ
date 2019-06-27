@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "EntertainmentQ",
+    "slug": "EntertainmentQ",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "ios": {
+      "bundleIdentifier": "com.EntertainmentQ.EntertainmentQ"
+    },
+    "android": {
+      "package": "com.EntertainmentQ.EntertainmentQ"
+    },
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo2.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
